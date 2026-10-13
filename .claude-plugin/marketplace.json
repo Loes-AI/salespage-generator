@@ -1,0 +1,33 @@
+{
+  "name": "loes-ai",
+  "owner": {
+    "name": "Loes",
+    "url": "https://letsgetloes.nl"
+  },
+  "metadata": {
+    "description": "LOES AI B*tch: de Ideale Salespagina Generator van Loes als Claude-plugin.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "salespage-generator",
+      "source": "./plugins/salespage-generator",
+      "description": "LOES AI B*tch schrijft samen met jou je Ideale Salespagina, blok voor blok: 16 blokken, één vraag tegelijk, en de complete pagina groeit mee in een document.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Loes",
+        "url": "https://letsgetloes.nl"
+      },
+      "homepage": "https://letsgetloes.nl",
+      "category": "marketing",
+      "tags": [
+        "salespagina",
+        "salespage",
+        "verkooppagina",
+        "copywriting",
+        "loes ai bitch"
+      ]
+    }
+  ]
+}

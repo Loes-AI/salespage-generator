@@ -1,0 +1,12 @@
+{
+  "name": "salespage-generator",
+  "displayName": "LOES AI B*tch - Salespage Generator",
+  "version": "1.0.0",
+  "description": "LOES AI B*tch schrijft samen met jou je Ideale Salespagina, blok voor blok: 16 blokken, één vraag tegelijk, en de complete pagina groeit mee in een document. De vragen en schrijfinstructies per blok komen live van de server van Loes.",
+  "author": {
+    "name": "Loes",
+    "url": "https://letsgetloes.nl"
+  },
+  "homepage": "https://letsgetloes.nl",
+  "keywords": ["salespagina", "salespage", "verkooppagina", "copywriting"]
+}
